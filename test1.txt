@@ -1,0 +1,1 @@
+Checking the working status of the git pull command.
