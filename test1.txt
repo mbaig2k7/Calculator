@@ -1,1 +1,4 @@
 Checking the working status of the git pull command.
+This is the second line in the text file.
+This is third line in the file.
+
